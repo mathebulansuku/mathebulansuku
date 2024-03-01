@@ -36,16 +36,10 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-207.5%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-**I'm an Early 🐤** 
-```
 📅 **I'm Most Productive at Night** 
 
 **I Mostly Code in JavaScript** 
 
-
- Last Updated on 29/02/2024 20:59:16 UTC
-<!--END_SECTION:waka-->
 
 </details>
 
