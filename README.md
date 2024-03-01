@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing **Frontend Web Development** and **AWS Cloud Architecting**
 - 👨‍💻 All of my projects are available at **[here][github]**
 - 📫 How to reach me **mathebulansuku@gmail.com**
-- ⚡ Fun fact **Boxing and Basketball fan** 💘
+- ⚡ Fun fact: **Boxing and Basketball fan** 💘
 
 ## 😎 Connect with me
 
