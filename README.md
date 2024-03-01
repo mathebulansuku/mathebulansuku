@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya! 👋
+# Hi there, I'm Manny! 👋
 
 - 🌱 I’m currently doing **Frontend Web Development** and **AWS Cloud Architecting**
 - 👨‍💻 All of my projects are available at **[here][github]**
@@ -7,12 +7,10 @@
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
+[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)]
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
 
 ## 👨‍💻 Technologies and Tools
 
