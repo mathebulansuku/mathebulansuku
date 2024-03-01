@@ -7,7 +7,6 @@
 
 ## 😎 Connect with me
 
-[![techwithmanny.com](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
 
 ## 👨‍💻 Technologies and Tools
