@@ -1,6 +1,6 @@
 # Hi there, I'm Manny! 👋
 
-- 🌱 I’m currently doing **Frontend Web Development** and **AWS Cloud Architecting**
+- 🌱 I’m currently doing **Junior DevOps Engineer** at **Four Minutes Medicine**
 - 👨‍💻 All of my projects are available at **[here][github]**
 - 📫 How to reach me **mathebulansuku@gmail.com**
 - ⚡ Fun fact: **Boxing and Basketball fan** 💘
