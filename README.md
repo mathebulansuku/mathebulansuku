@@ -3,7 +3,7 @@
 - 🌱 I’m currently a **Software Engineer** at **Four Minutes Medicine**
 - 👨‍💻 All of my projects are available at **[here][github]**
 - 📫 How to reach me **mathebulansuku@gmail.com**
-- ⚡ Fun fact: **Boxing and Basketball fan** 💘
+- ⚡ Fun fact: **Boxing, Chess and Basketball fan** 💘
 
 ## 😎 Connect with me
 
