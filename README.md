@@ -1,6 +1,6 @@
 # Hi there, I'm Manny! 👋
 
-- 🌱 I’m currently a **Software Engineer** at **Four Minutes Medicine**
+- 🌱 I am a **Full-Stack Software Engineer**
 - 👨‍💻 All of my projects are available at **[here][github]**
 - 📫 How to reach me **mathebulansuku@gmail.com**
 - ⚡ Fun fact: **Boxing, Chess and Basketball fan** 💘
