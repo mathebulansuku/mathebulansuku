@@ -1,6 +1,6 @@
 # Hi there, I'm Manny! 👋
 
-- 🌱 I am a **Full-Stack DevOps Engineer**
+- 🌱 I am a **Cloud/DevOps Engineer**
 - 👨‍💻 All of my projects are available at **[here][github]**
 - 📫 How to reach me **mathebulansuku@gmail.com**
 - ⚡ Fun facts: **Boxing, Chess and Basketball are life** 💘
